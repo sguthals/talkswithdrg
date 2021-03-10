@@ -20,27 +20,36 @@ For my day job, I do a weekly pre-recorded show on [Microsoft's Channel 9 (C9)](
 
 Keeping track of bios and headshots is hard...so I am storing them all here!
 
-You can find [bios on this page](bios.md) and [headshots in this folder](https://github.com/sguthals/talkswithdrg/tree/main/docs/media).
+You can find [bios on this page](bios.md) and [headshots in this folder](media/).
 
 ## 2021 Talks
 
 | Event | Dates |
 |-------|-------|
-| [AI and the Future of Jobs](2021-elmhurst.md) | March 16, 2021 |
-| [SIGCSE](2021-sigcse.md) | March 13-20, 2021 |
-| [Below The Surface: Advancing Women in Technology](2021-barracuda-iwd.md) | March 11, 2021 |
-| [Microsoft Reactor International Women's Day Event Series](2021-reactor-iwd.md) | March 7-11, 2021 |
-| [The Live Coders Conference: International Women's Day Challenge](2021-live-coders.md) | March 8, 2021 |
-| [Microsoft Spring Ignite 2021](2021-spring-ignite.md) | March 2–4, 2021 |
-| [Away from the Keyboard: Dr. Sarah Guthals Educates Us](2021-aftk.md) | March 1, 2021 |
-| [Microsoft's EDU Day: Get started with Microsoft Learn](2021-edu-day.md) | January 25, 2021 |
+| [AI and the Future of Jobs](2021/elmhurst/) | March 16, 2021 |
+| [SIGCSE](2021/sigcse/) | March 13-20, 2021 |
+| [Below The Surface: Advancing Women in Technology](2021/barracuda/) | March 11, 2021 |
+| [Microsoft Reactor International Women's Day Event Series](2021/reactor-iwd/) | March 7-11, 2021 |
+| [The Live Coders Conference: International Women's Day Challenge](2021/live-coders-iwd/) | March 8, 2021 |
+| [Microsoft Spring Ignite 2021](2021/spring-ignite/) | March 2–4, 2021 |
+| [Away from the Keyboard: Dr. Sarah Guthals Educates Us](2021/aftk/) | March 1, 2021 |
+| [Microsoft's EDU Day: Get started with Microsoft Learn](2021/EDUDay/) | January 25, 2021 |
 
+## 2020 Talks
+
+| Event | Dates |
+|-------|-------|
+| [Microsoft Student Ambassador Events](2020/msa/) | September 2020 - December 2020 |
+| [raise.dev Hacktoberfest Helpdesk](2020/raise-dev/) | October 20, 2020 |
+| [Microsoft Start. Dev. Change. 2020](2020/start-dev-change/) | October 14-15, 2020 |
+| [Micorosft Ignite 2020](2020/ignite/) | September 22-24, 2020 |
+| [Microsoft Build 2020](2020/build/) | May 19 - 21, 2020 |
 
 ## 2019 Talks
 
 | Event | Dates |
 |-------|-------|
-| [IT Career Energizer: Set Fulfilling Career and Life Goals and Review Them Regularly with Sarah Guthals](2019-itenergizer.md) | July 22, 2019 |
+| [IT Career Energizer: Set Fulfilling Career and Life Goals and Review Them Regularly with Sarah Guthals](2019/itenergizer/) | July 22, 2019 |
 
 # Streaming Schedule
 
