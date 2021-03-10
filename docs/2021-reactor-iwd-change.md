@@ -22,4 +22,16 @@ Learn how you can help be a champion for change 💪🏼
 
 ## Additional Resources
 
+### Gwyn's Resources
+
+- [YouTube Channel](https://www.youtube.com/c/MadeByGPS)
+- [How I became an MVP](https://youtu.be/0qFVlC5IPTY)
+- [How I got into cloud](https://youtu.be/kluKaLXJ2lg)
+- [Failuring certifications](https://youtu.be/l9vCQHvTEyI) 
+- [Making mistakes](https://youtu.be/v9UwE62XCt4)
+
+### Sarah's Resources
+
+- [YouTube Channel](https://www.youtube.com/user/drguthals)
+- [Twitch Channel](https://twitch.tv/drguthals)
 
