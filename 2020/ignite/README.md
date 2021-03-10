@@ -5,7 +5,7 @@
 ### Conference Info
 - Dates: September 22-24, 2020
 - Location: Digital
-- Registration: Closed
+- Watch Now: [YouTube playlist](https://www.youtube.com/playlist?list=PLjoGSbuzyErgDID3VNzVpGMZWG0jhBxlH)
 
 ### Talks
 
