@@ -7,7 +7,7 @@ inputs:
     description: the shareboard file that has been created from the ntoes folder
   web_file:
     description: the shareboard file for the web
-  tracking:
+  tracking_file:
     description: a file to just make an update to in case there were no shareboard changes
     default: 'docs/tracking.md'
 runs:
