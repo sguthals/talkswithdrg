@@ -1,0 +1,15 @@
+name: 'Welcome to the Shareboard'
+description: 'Add learners to the shareboard'
+inputs:
+  dir_name:
+    description: the directory where the notes can be found
+  shareboard_file:
+    description: the shareboard file that has been created from the ntoes folder
+  web_file:
+    description: the shareboard file for the web
+  tracking:
+    description: a file to just make an update to in case there were no shareboard changes
+    default: 'docs/tracking.md'
+runs:
+  using: 'node12'
+  main: 'index.js'

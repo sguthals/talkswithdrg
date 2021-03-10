@@ -1,0 +1,49 @@
+name: publish
+
+on:
+  push:
+    branches:
+    - main
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:    
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Getting all of the md file contents for Ignite 2020
+      id: collect_2020_ignite
+      uses: drguthals/talkswithdrg/docs@main
+      with:
+        dir_name: /home/runner/work/_actions/drguthals/talkswithdrg/main/2020/ignite/intro-to-github
+        shareboard_file: 2020/ignite/intro-to-github/ignite-shareboard.md
+        web_file: docs/2020-ignite-shareboard.md
+    - name: Getting all of the md file contents for Start Dev Change 2020
+      id: collect_2020_startdevchange
+      uses: drguthals/talkswithdrg/docs@main
+      with:
+        dir_name: /home/runner/work/_actions/drguthals/talkswithdrg/main/2020/start-dev-change/intro-to-github
+        shareboard_file: 2020/start-dev-change/intro-to-github/start-dev-change-shareboard.md
+        web_file: docs/2020-start-dev-change-shareboard.md
+    - name: Getting all of the md file contents for MSA Events 2020
+      id: collect_2020_MSA
+      uses: drguthals/talkswithdrg/docs@main
+      with:
+        dir_name: /home/runner/work/_actions/drguthals/talkswithdrg/main/2020/msa/intro-to-github
+        shareboard_file: 2020/msa/intro-to-github/msa-shareboard.md
+        web_file: docs/2020-msa-shareboard.md
+    - name: Getting all of the md file contents for Spring Ignite 2021
+      id: collect_2021_ignite
+      uses: drguthals/talkswithdrg/docs@main
+      with:
+        dir_name: /home/runner/work/_actions/drguthals/talkswithdrg/main/2021/spring-ignite/intro-to-github
+        shareboard_file: 2021/spring-ignite/intro-to-github/ignite-shareboard.md
+        web_file: docs/2021-spring-ignite-shareboard.md
+    - name: Copy contents and push
+      run: |
+          git config user.name Dr Guthals
+          git config user.email sarah+dr@guthals.com
+          git add .
+          git commit -m "pushing"
+          git push
+
