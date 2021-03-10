@@ -25,9 +25,6 @@ try {
   console.log("Writing to the markdown file in the talk folder: ", core.getInput('shareboard_file'))
   fs.writeFileSync( core.getInput('shareboard_file'), shareboardFull );
 
-  console.log("Writing to the markdown file for the web: ", core.getInput('web_file'))
-  fs.writeFileSync( core.getInput('web_file'), shareboardFull );
-
 } catch (error) {
   core.setFailed(error.message);
 }
