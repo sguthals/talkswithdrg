@@ -18,6 +18,7 @@ jobs:
         dir_name: /home/runner/work/_actions/drguthals/talkswithdrg/main/2020/ignite/intro-to-github
         shareboard_file: 2020/ignite/intro-to-github/ignite-shareboard.md
         web_file: docs/2020-ignite-shareboard.md
+        tracking_file: docs/tracking.md
     - name: Getting all of the md file contents for Start Dev Change 2020
       id: collect_2020_startdevchange
       uses: drguthals/talkswithdrg/docs@main

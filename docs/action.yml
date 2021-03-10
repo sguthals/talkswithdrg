@@ -9,7 +9,6 @@ inputs:
     description: the shareboard file for the web
   tracking_file:
     description: a file to just make an update to in case there were no shareboard changes
-    default: 'docs/tracking.md'
 runs:
   using: 'node12'
   main: 'index.js'
