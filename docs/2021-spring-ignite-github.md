@@ -4,7 +4,7 @@ GitHub has long served as one of the most popular collaboration tools for develo
 
 ## Where to watch
 
-[Wednesday, March 3, 2021 at 4:00 - 4:30pm PDT](https://myignite.microsoft.com/sessions/efbd16c0-6f0e-427e-aee6-e8be6e5096ec)
+[On Demand Video](https://myignite.microsoft.com/sessions/efbd16c0-6f0e-427e-aee6-e8be6e5096ec)
 
 ## See Who Was There
 

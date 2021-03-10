@@ -18,17 +18,11 @@ For my day job, I do a weekly pre-recorded show on [Microsoft's Channel 9 (C9)](
 
 ## Bio and Headshots
 
-<details>
-
 Keeping track of bios and headshots is hard...so I am storing them all here!
 
 You can find [bios on this page](bios.md) and [headshots in this folder](https://github.com/sguthals/talkswithdrg/tree/main/docs/media).
 
-</details>
-
 ## 2021 Talks
-
-<details>
 
 | Event | Dates |
 |-------|-------|
@@ -41,34 +35,14 @@ You can find [bios on this page](bios.md) and [headshots in this folder](https:/
 | [Away from the Keyboard: Dr. Sarah Guthals Educates Us](2021-aftk.md) | March 1, 2021 |
 | [Microsoft's EDU Day: Get started with Microsoft Learn](2021-edu-day.md) | January 25, 2021 |
 
-</details>
-
-## 2020 Talks
-
-<details>
-
-| Event | Dates |
-|-------|-------|
-| [Microsoft Student Ambassador Events](2020-msa.md) | September 2020 - December 2020 |
-| [raise.dev Hacktoberfest Helpdesk](2020-raise-dev.md) | October 20, 2020 |
-| [Microsoft Start. Dev. Change. 2020](2020-start-dev-change.md) | October 14-15, 2020 |
-| [Micorosft Ignite 2020](2020-ignite.md) | September 22-24, 2020 |
-| [Microsoft Build 2020](2020-build.md) | May 19 - 21, 2020 |
-
-</details>
 
 ## 2019 Talks
-
-<details>
 
 | Event | Dates |
 |-------|-------|
 | [IT Career Energizer: Set Fulfilling Career and Life Goals and Review Them Regularly with Sarah Guthals](2019-itenergizer.md) | July 22, 2019 |
 
-</details>
-
 # Streaming Schedule
-<details>
 
 Join me and my friends as we build, break, and play at [twitch.tv/drguthals](https://www.twitch.tv/drguthals). 
 
@@ -92,5 +66,3 @@ For my day job, I do weekly Live Streams, which you can catch every Tuesday from
 |------|-------|------|
 | 4/6/21 | Exploring RESTful APIs | [YouTube](https://youtu.be/pnQi098ZZRo) |
 | 4/13/21 | Programming on Linux on Windows using WSL | [YouTube](https://youtu.be/HkCI5dG3Qvo) |
-
-</details>
