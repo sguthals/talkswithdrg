@@ -18,87 +18,31 @@ For my day job, I do a weekly pre-recorded show on [Microsoft's Channel 9 (C9)](
 
 ## Bio and Headshots
 
-<details>
-
 Keeping track of bios and headshots is hard...so I am storing them all here!
 
 You can find [bios on this page](bios.md) and [headshots in this folder](https://github.com/sguthals/talkswithdrg/tree/main/docs/media).
 
-</details>
-
 ## 2021 Talks
-
-<details>
-
-Click on the event names below to find out how to register, where to watch recordings, and discover additional resources.
-
-<table>
-  <tr>
-    <th>Event</th>
-    <th>Date(s)</th>
-  </tr>
-  <tr>
-    <td><a href="2021-elmhurst.md">AI and the Future of Jobs</a></td>
-    <td>March 16, 2021</td>
-  </tr>
-  <tr>
-    <td><a href="2021-sigcse.md">SIGCSE</a></td>
-    <td>March 13-20, 2021</td>
-  </tr>
-  <tr>
-    <td><a href="2021-barracuda-iwd.md">Below The Surface: Advancing Women in Technology</a></td>
-    <td>March 11, 2021</td>
-  </tr>
-  <tr>
-    <td><a href="2021-reactor-iwd.md">Microsoft Reactor International Women's Day Event Series</a></td>
-    <td>March 7-11, 2021</td>
-  </tr>
-  <tr>
-    <td><a href="2021-live-coders.md">The Live Coders Conference: International Women's Day Challenge</a></td>
-    <td>March 8, 2021</td>
-  </tr>
-  <tr>
-    <td><a href="2021-spring-ignite.md">Microsoft Spring Ignite 2021</a></td>
-    <td>March 2–4, 2021</td>
-  </tr>
-  <tr>
-    <td><a href="2021-aftk.md">Away from the Keyboard: Dr. Sarah Guthals Educates Us</a></td>
-    <td>March 1, 2021</td>
-  </tr>
-  <tr>
-    <td><a href="2021-edu-day.md">Microsoft's EDU Day: Get started with Microsoft Learn</a></td>
-    <td>January 25, 2021</td>
-  </tr>
-</table>
-
-</details>
-
-## 2020 Talks
-
-<details>
 
 | Event | Dates |
 |-------|-------|
-| [Microsoft Student Ambassador Events](2020-msa.md) | September 2020 - December 2020 |
-| [raise.dev Hacktoberfest Helpdesk](2020-raise-dev.md) | October 20, 2020 |
-| [Microsoft Start. Dev. Change. 2020](2020-start-dev-change.md) | October 14-15, 2020 |
-| [Micorosft Ignite 2020](2020-ignite.md) | September 22-24, 2020 |
-| [Microsoft Build 2020](2020-build.md) | May 19 - 21, 2020 |
+| [AI and the Future of Jobs](2021-elmhurst.md) | March 16, 2021 |
+| [SIGCSE](2021-sigcse.md) | March 13-20, 2021 |
+| [Below The Surface: Advancing Women in Technology](2021-barracuda-iwd.md) | March 11, 2021 |
+| [Microsoft Reactor International Women's Day Event Series](2021-reactor-iwd.md) | March 7-11, 2021 |
+| [The Live Coders Conference: International Women's Day Challenge](2021-live-coders.md) | March 8, 2021 |
+| [Microsoft Spring Ignite 2021](2021-spring-ignite.md) | March 2–4, 2021 |
+| [Away from the Keyboard: Dr. Sarah Guthals Educates Us](2021-aftk.md) | March 1, 2021 |
+| [Microsoft's EDU Day: Get started with Microsoft Learn](2021-edu-day.md) | January 25, 2021 |
 
-</details>
 
 ## 2019 Talks
-
-<details>
 
 | Event | Dates |
 |-------|-------|
 | [IT Career Energizer: Set Fulfilling Career and Life Goals and Review Them Regularly with Sarah Guthals](2019-itenergizer.md) | July 22, 2019 |
 
-</details>
-
 # Streaming Schedule
-<details>
 
 Join me and my friends as we build, break, and play at [twitch.tv/drguthals](https://www.twitch.tv/drguthals). 
 
@@ -122,5 +66,3 @@ For my day job, I do weekly Live Streams, which you can catch every Tuesday from
 |------|-------|------|
 | 4/6/21 | Exploring RESTful APIs | [YouTube](https://youtu.be/pnQi098ZZRo) |
 | 4/13/21 | Programming on Linux on Windows using WSL | [YouTube](https://youtu.be/HkCI5dG3Qvo) |
-
-</details>
